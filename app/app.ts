@@ -13,8 +13,10 @@ new Vue({
 	`,
 	data: {
 		headingText: 'Welcome to NativeScript-Vue',
-		bodyText: `This typecript template contains a number of app samples that you can use as the starting point of your app.
-		To experiment, try copying and pasting the code from app-with-list-view.js, app-with-router.js, app-with-tab-view.js,
-		or app-with-vmodel.js into your app’s app.js file.`
+		bodyText: `
+			This TypeScript template contains a number of app samples that you can use as the starting point of your app.
+			To experiment, try copying and pasting the code from app-with-list-view.js, app-with-router.js, app-with-tab-view.js,
+			or app-with-vmodel.js into your app’s app.js file.
+		`
 	}
 }).$start();
