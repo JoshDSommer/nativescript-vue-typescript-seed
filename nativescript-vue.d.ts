@@ -1,7 +1,7 @@
 declare module 'nativescript-vue' {
 	import Vue from 'vue';
 
-	class NativeScriptVue extends Vue implements NativeScriptVue {
+	class NativeScriptVue extends Vue {
 		/**
 		 * calls the NativeScript application.start() method
 		 */
