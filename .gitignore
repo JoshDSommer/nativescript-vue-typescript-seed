@@ -1,3 +1,4 @@
 node_modules
 platforms
 app/**/*.js
+package-lock.json
