@@ -1,12 +1,12 @@
-# nativescript-vue-typescript-seed
-### NativeScript + TypeScript + Vue POC
+# NativeScript + Vue + Typescript
+## nativescript-vue-typescript-seed
 
-My attempt to take the project that is created when using the nativescript-vue-template(`tns create my-app --template nativescript-vue-template`) and updated it to use typescript.
+This project is so anyone can get started using NativeScript and Vue with Typscript. It is created when using the nativescript-vue-template(`tns create my-app --template nativescript-vue-template`) and updated it to use typescript. To create typings for nativescript-vue, vue.js was added.
 
 
 ### Workflow:
 
-* clone this repo, from the command line,`git clone git@github.com:TheOriginalJosh/nativescript-vue-typescript-seed.git`. 
-* then `cd nativescript-vue-typescript-seed`
+* clone this repo, from the command line,`git clone git@github.com:TheOriginalJosh/nativescript-vue-typescript-seed.git myAppName`. 
+* then `cd myAppName` 
 * then run `npm install`
 * from this point on, run NativeScript CLI commands as normal `tns run android`, `tns run ios`, etc. 
