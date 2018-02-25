@@ -1,7 +1,7 @@
-# NativeScript + Vue + Typescript
+# NativeScript + Vue + TypeScript
 ## nativescript-vue-typescript-seed
 
-This project is so anyone can get started using NativeScript and Vue with Typscript. It is created when using the nativescript-vue-template(`tns create my-app --template nativescript-vue-template`) and updated it to use typescript. To create typings for nativescript-vue, vue.js was added.
+This project is so anyone can get started using NativeScript and Vue with TypeScript. It is created when using the nativescript-vue-template(`tns create my-app --template nativescript-vue-template`) and updated it to use typescript. To create typings for nativescript-vue, vue.js was added.
 
 
 ### Workflow:
