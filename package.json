@@ -13,7 +13,7 @@
 		}
 	},
 	"dependencies": {
-		"nativescript-gradient": "^2.0.1",
+		"//" : "feel free to delete the nativescript-gradient dependecy. it's for demo purposes.",
 		"nativescript-theme-core": "~1.0.4",
 		"nativescript-vue": "^1.0.0",
 		"tns-core-modules": "^3.4.0",
