@@ -7,9 +7,13 @@
 		"id": "org.nativescript.testVue",
 		"tns-android": {
 			"version": "3.4.1"
+		},
+		"tns-ios": {
+			"version": "3.4.1"
 		}
 	},
 	"dependencies": {
+		"nativescript-gradient": "^2.0.1",
 		"nativescript-theme-core": "~1.0.4",
 		"nativescript-vue": "^1.0.0",
 		"tns-core-modules": "^3.4.0",
