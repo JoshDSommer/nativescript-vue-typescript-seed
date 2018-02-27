@@ -40,6 +40,7 @@ const Buzz = {
 }
 
 const router = new VueRouter({
+	pageRouting: true,
 	routes: [
 		{path: '/foo', component: Foo},
 		{
