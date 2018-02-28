@@ -16,8 +16,6 @@ declare module 'nativescript-vue' {
 		 * @param resolver  function to register the element
 		 */
 		static registerElement(elementName: string, resolver: function);
-
-		$http: any;
 	}
 
 	module NativeScriptVue {
