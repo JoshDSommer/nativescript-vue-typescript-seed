@@ -5,7 +5,7 @@ import { StackLayout } from  'tns-core-modules/ui/layouts/stack-layout';
 import { Image } from 'tns-core-modules/ui/image';
 import { Label } from  'tns-core-modules/ui/label';
 
-Vue.prototype.$http = http
+(Vue as any).prototype.$http = http
 
 new Vue({
 	data: {
