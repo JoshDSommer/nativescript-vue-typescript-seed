@@ -5,7 +5,12 @@ declare module 'nativescript-vue' {
 
 	// creat a nativescript vue class that extends vue.js
 	class NativeScriptVue extends Vue {
-
+		/**
+		 * Registers NativeScript Plugin.
+		 * @param elementName Name of the element to use in your template
+		 * @param resolver  function to register the element
+		 */
+		static registerElement(elementName: string, resolver: function);
 	}
 
 	export = NativeScriptVue;

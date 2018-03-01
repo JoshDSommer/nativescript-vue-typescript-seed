@@ -8,11 +8,11 @@ declare module "vue/types/vue" {
 		 */
 		$start(): void;
 
-		/**
-		 * Registers NativeScript Plugin.
-		 * @param elementName Name of the element to use in your template
-		 * @param resolver  function to register the element
-		 */
-		static registerElement(elementName: string, resolver: function);
+		// /**
+		//  * Registers NativeScript Plugin.
+		//  * @param elementName Name of the element to use in your template
+		//  * @param resolver  function to register the element
+		//  */
+		// static registerElement(elementName: string, resolver: function);
 	}
 }
