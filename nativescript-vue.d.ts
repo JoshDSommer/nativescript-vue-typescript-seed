@@ -18,9 +18,6 @@ declare module 'nativescript-vue' {
 		static registerElement(elementName: string, resolver: function);
 	}
 
-	module NativeScriptVue {
-	}
-
 	export = NativeScriptVue;
 }
 
