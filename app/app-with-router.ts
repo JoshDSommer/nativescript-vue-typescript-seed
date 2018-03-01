@@ -1,5 +1,5 @@
 import Vue = require('nativescript-vue');
-import * as VueRouter from 'vue-router';
+import VueRouter from 'vue-router';
 
 Vue.use(VueRouter)
 global.process = {env: {}} as any // hack! a build process should replace process.env's with static strings.
