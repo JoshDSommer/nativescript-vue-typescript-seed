@@ -1,4 +1,4 @@
-import * as Vue from 'nativescript-vue';
+import Vue = require('nativescript-vue');
 
 new Vue({
 	data: {

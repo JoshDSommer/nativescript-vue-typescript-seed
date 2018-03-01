@@ -1,4 +1,5 @@
-import * as Vue from 'nativescript-vue';
+import Vue = require('nativescript-vue');
+
 import * as http from 'tns-core-modules/http';
 import { Page } from 'tns-core-modules/ui/page';
 import { StackLayout } from  'tns-core-modules/ui/layouts/stack-layout';

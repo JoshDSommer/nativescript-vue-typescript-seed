@@ -1,4 +1,4 @@
-import * as Vue from 'nativescript-vue';
+import Vue = require('nativescript-vue');
 import * as VueRouter from 'vue-router';
 
 Vue.use(VueRouter)
